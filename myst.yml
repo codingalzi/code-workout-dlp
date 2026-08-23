@@ -32,8 +32,9 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.ipynb
-    - file: building_blocks_of_NN.ipynb
-    - file: what_is_deep_learning.ipynb
+    - file: dlp_intro.ipynb
+    - file: week2_lec.ipynb
+    - file: week2_prac.ipynb
 
 site:
   template: book-theme
