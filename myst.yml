@@ -10,7 +10,7 @@ project:
     - https://github.com/jupyter-book/myst-plugins/releases/download/page-last-updated/page-last-updated.mjs
 
   id: b2c3278f-f371-4fe3-a310-02f175604b48
-  title: '프로젝트로 배우는 딥러닝'
+  title: '딥러닝'
 
   numbering: 
     title: true
