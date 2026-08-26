@@ -35,6 +35,7 @@ project:
     - file: dlp_intro.ipynb
     - file: week2_lec.ipynb
     - file: P1_MNIST_guided_lab.ipynb
+    - file: P1_MNIST_guided_lab_keras_pytorch.ipynb
     - file: week2_prac.ipynb
 
 site:
