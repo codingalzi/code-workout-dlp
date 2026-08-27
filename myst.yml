@@ -33,9 +33,8 @@ project:
   toc:
     - file: intro.ipynb
     - file: dlp_intro.ipynb
-    - file: week2_lec.ipynb
+    - file: P1_basic_nn_and_training.ipynb
     - file: P1_MNIST_guided_lab.ipynb
-    - file: P1_MNIST_guided_lab_keras_pytorch.ipynb
     - file: week2_prac.ipynb
 
 site:
