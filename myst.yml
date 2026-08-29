@@ -33,8 +33,9 @@ project:
   toc:
     - file: intro.ipynb
     - file: dlp_intro.ipynb
-    - file: P1_basic_nn_and_training.ipynb
-    - file: P1_lab_mnist.ipynb
+    - file: P1_theory_mlp.ipynb
+    # - file: P1_theory_mlp-1.ipynb
+    - file: P1_lab_mlp.ipynb
     - file: P1_project_fashion_mnist.ipynb
 
 site:
