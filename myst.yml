@@ -34,9 +34,9 @@ project:
     - file: intro.ipynb
     - file: dlp_intro.ipynb
     - file: P1_theory_mlp.ipynb
-    # - file: P1_theory_mlp-1.ipynb
     - file: P1_lab_mlp.ipynb
     - file: P1_project_fashion_mnist.ipynb
+    - file: P2_lab_dl_project_types.ipynb
 
 site:
   template: book-theme
