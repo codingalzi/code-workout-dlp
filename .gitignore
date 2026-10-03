@@ -5,3 +5,4 @@ _build
 *.pkl
 *.mmap
 *.keras
+*.pt
