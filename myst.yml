@@ -38,7 +38,9 @@ project:
     - file: P1_project_fashion_mnist.ipynb
     - file: P2_theory_dl_project_types.ipynb
     - file: P2_lab_dl_project_types.ipynb
-
+    - file: P2_project_bike_sharing.ipynb
+    - file: P2_project_newsgroups.ipynb
+    
 site:
   template: book-theme
   options:
