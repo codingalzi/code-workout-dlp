@@ -40,6 +40,8 @@ project:
     - file: P2_lab_dl_project_types.ipynb
     - file: P2_project_bike_sharing.ipynb
     - file: P2_project_newsgroups.ipynb
+    - file: P3_theory_computer_vision.ipynb
+    - file: P3_lab_computer_vision.ipynb
     
 site:
   template: book-theme
