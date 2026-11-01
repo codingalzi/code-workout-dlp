@@ -43,6 +43,7 @@ project:
     - file: P3_theory_computer_vision.ipynb
     - file: P3_lab_computer_vision.ipynb
     - file: P3_project_eurosat.ipynb
+    - file: P3_project_wildlife_monitoring.ipynb
     
 site:
   template: book-theme
