@@ -42,6 +42,7 @@ project:
     - file: P2_project_newsgroups.ipynb
     - file: P3_theory_computer_vision.ipynb
     - file: P3_lab_computer_vision.ipynb
+    - file: P3_project_eurosat.ipynb
     
 site:
   template: book-theme
