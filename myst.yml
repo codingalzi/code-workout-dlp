@@ -44,6 +44,9 @@ project:
     - file: P3_lab_computer_vision.ipynb
     - file: P3_project_eurosat.ipynb
     - file: P3_project_wildlife.ipynb
+    - file: P4_theory_transformer_llm.ipynb
+    - file: P4_lab_transformer_llm.ipynb
+    - file: P4_project_document_search.ipynb
     
 site:
   template: book-theme
